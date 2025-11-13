@@ -113,9 +113,3 @@ For questions about the code or experiments, email Ankit Kumar at ankit.22bcon10
 
 ---
 
-This README provides an overview and reproduction instructions for the experiments. If you'd like, I can also:
-
-- add a small runner script (`run-benchmarks.ps1`) to automate repeated runs and result collection, or
-- add a sample CSV output and a small Python/R script to plot results.
-
-Tell me which extra item you'd like and I'll add it.
