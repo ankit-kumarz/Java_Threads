@@ -1,8 +1,7 @@
 # Java Threads — Virtual Threads vs ForkJoin (Research)
                                                                                                                                                    
 Author : Ankit Kumar  
-Department of Computer Science & Engineering, JECRC University, Jaipur, India  
-Email: ankitrajj1068@gmail.com
+Email: ankitrajj1068@gmail.com                                                                                                                                                                                      
 Under the Supervision: Mrs Dimpy Singh (Assistant Professor), Department of CSE, JECRC University
 
 ## Abstract
