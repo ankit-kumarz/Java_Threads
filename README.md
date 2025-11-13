@@ -2,7 +2,7 @@
 
 Author: Ankit Kumar  
 Department of Computer Science & Engineering, JECRC University, Jaipur, India  
-Email: ankit.22bcon1068@jecrcu.edu.in
+Email: ankitrajj1068@gmail.com
 
 ## Abstract
 
