@@ -22,7 +22,7 @@ Files in the root directory:
 - `CpuBoundVirtualThreads.java` — CPU-bound workload implemented using virtual threads (JDK 21+).
 - `IoBoundForkJoin.java` — I/O-bound workload implemented using ForkJoin or thread pool.
 - `IoBoundVirtualThreads.java` — I/O-bound workload implemented using virtual threads.
-- `LICENSE` — repository license.
+- `LICENSE` — MIT license.
 - `README.md` — this file.
 
 Each Java file contains a self-contained `main` method. The programs are intended to be small, reproducible benchmarks to demonstrate differences between the two concurrency approaches.
