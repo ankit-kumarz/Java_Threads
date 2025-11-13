@@ -109,7 +109,7 @@ See the `LICENSE` file in this repository for license terms.
 
 ## Contact
 
-For questions about the code or experiments, email Ankit Kumar at ankit.22bcon1068@jecrcu.edu.in.
+For questions about the code or experiments, email Ankit Kumar at ankitrajj1068@gmail.com
 
 ---
 
